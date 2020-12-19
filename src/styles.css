@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+.color-picker {
+  height: 70vh;
+  width: 100%;
+  background: linear-gradient(to right, red, yellow);
+}
+
+h3 {
+  font: 600 3.5em "Raleway", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  width: 100%;
+}
